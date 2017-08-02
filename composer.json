@@ -1,0 +1,11 @@
+{
+    "name": "nk2580/feed-processor",
+    "type": "library",
+    "authors": [
+        {
+            "name": "nik kyriakidis",
+            "email": "nik.k2580@gmail.com"
+        }
+    ],
+    "require": {}
+}
